@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lamipap/static/css/main.d21d1817.css",
+    "main.js": "/lamipap/static/js/main.e2d4a040.js",
+    "static/js/787.fd936cc2.chunk.js": "/lamipap/static/js/787.fd936cc2.chunk.js",
+    "static/media/characteristics__img.jpg": "/lamipap/static/media/characteristics__img.229bd69b6a4a2daa384a.jpg",
+    "static/media/info_img.jpg": "/lamipap/static/media/info_img.29e2160eddefac1fd594.jpg",
+    "static/media/01.jpg": "/lamipap/static/media/01.a015e434013811498ea6.jpg",
+    "index.html": "/lamipap/index.html",
+    "static/media/mail.svg": "/lamipap/static/media/mail.1ed77e19c0022e07154e0fc5a0702129.svg",
+    "static/media/phone.svg": "/lamipap/static/media/phone.c9b90a3944018fb4f18c76182943e662.svg",
+    "main.d21d1817.css.map": "/lamipap/static/css/main.d21d1817.css.map",
+    "main.e2d4a040.js.map": "/lamipap/static/js/main.e2d4a040.js.map",
+    "787.fd936cc2.chunk.js.map": "/lamipap/static/js/787.fd936cc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21d1817.css",
+    "static/js/main.e2d4a040.js"
+  ]
+}
