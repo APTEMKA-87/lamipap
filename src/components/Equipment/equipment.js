@@ -10,10 +10,10 @@ const Equipment = () => {
                     <div className={s.testimonials__title}>
                         <h2 className={s.title}>Оборудование, запасные части и детали на нашем складе</h2>
                     </div>
-                    <div className={s.testimonials__subtitle}>
+                    {/*<div className={s.testimonials__subtitle}>
                         <p>При Вашей заинтересованности мы вышлем в Ваш адрес подробные списки обрудования на продажу с
                             техническими характеристиками и фотографиями.</p>
-                    </div>
+                    </div>*/}
                 </div>
                 <div className={s.testimonials__row}>
 

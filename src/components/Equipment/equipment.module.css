@@ -11,13 +11,14 @@
 
 .testimonials__heading {
     margin-bottom: 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    /*display: flex;*/
+    text-align: center;
+    /*justify-content: space-between;
+    align-items: center;*/
 }
 
 .testimonials__title {
-    max-width: 452px;
+    /*max-width: 452px;*/
 }
 
 .title {
