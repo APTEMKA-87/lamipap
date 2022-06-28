@@ -1,0 +1,40 @@
+.container {
+    max-width: 1220px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.info {
+    padding-top: 0;
+    margin-bottom: 50px;
+}
+
+.info__inner {
+    display: flex;
+}
+
+.info_img {
+    max-width: 620px;
+    margin-right: 60px;
+    flex-basis: 570px;
+    object-fit: cover;
+}
+
+.info__list {
+    flex-basis: 490px;
+}
+
+.info__item + .info__item {
+    padding-top: 50px;
+}
+
+.info__item_title {
+    font-size: 16px;
+    line-height: 19px;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+}
+
+.info__item_text {
+    max-width: 450px;
+}
