@@ -12,12 +12,11 @@ const Header = () => {
                     </a>
                     <nav className={s.menu}>
                         <ul className={s.menu__list}>
-                            {/*<li className={s.menu__item}>
-                                <a className={s.menu__link} href="src/components/Header/Header#info">о компании</a>
-                            </li>*/}
                             <li className={s.menu__item}>
-                                <a className={s.menu__link} href="src/components/Header/Header#characteristics">наши
-                                    услуги</a>
+                                <a className={s.menu__link} href="src/components/Header/Header#info">бумага и картон</a>
+                            </li>
+                            <li className={s.menu__item}>
+                                <a className={s.menu__link} href="src/components/Header/Header#characteristics">оборудование</a>
                             </li>
                             <li className={s.menu__item}>
                                 <a className={s.menu__link} href="src/components/Header/Header#price">контакты</a>
